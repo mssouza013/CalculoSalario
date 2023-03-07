@@ -52,7 +52,7 @@
             this.lblCPF.Size = new System.Drawing.Size(64, 39);
             this.lblCPF.TabIndex = 0;
             this.lblCPF.Text = "CPF";
-            this.lblCPF.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // txtNome
             // 
